@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29659" started-at="2018-02-23T07:05:31Z" finished-at="2018-02-23T07:06:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29659" started-at="2018-02-23T07:05:31Z" finished-at="2018-02-23T07:06:00Z">
+      <class name="GoogleTests.com.Tests.ActionsTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:GoogleTests.com.Tests.ActionsTests@77caeb3e]" name="setup" is-config="true" duration-ms="24918" started-at="2018-02-23T07:05:31Z" finished-at="2018-02-23T07:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:GoogleTests.com.Tests.ActionsTests@77caeb3e]" name="secondTest" duration-ms="11" started-at="2018-02-23T07:05:56Z" finished-at="2018-02-23T07:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="firstTest()[pri:1, instance:GoogleTests.com.Tests.ActionsTests@77caeb3e]" name="firstTest" duration-ms="4544" started-at="2018-02-23T07:05:56Z" finished-at="2018-02-23T07:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:GoogleTests.com.Tests.ActionsTests@77caeb3e]" name="tearDownTest" is-config="true" duration-ms="106" started-at="2018-02-23T07:06:00Z" finished-at="2018-02-23T07:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- GoogleTests.com.Tests.ActionsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
