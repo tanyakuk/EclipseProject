@@ -3,15 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AmazonTests.com.Tests.AmazonTests1">
+      <class name="whatfixScripts.WhatfixTest">
         <methods>
-          <include name="verifyFilterByPrice"/>
+          <include name="verifyFlowOnSelfHelp"/>
           <include name="setup"/>
-          <include name="verifyFilterByRatingandPrice"/>
-          <include name="tearDownTest"/>
-          <include name="verifySearchForPendrive"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- AmazonTests.com.Tests.AmazonTests1 -->
+      </class> <!-- whatfixScripts.WhatfixTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
